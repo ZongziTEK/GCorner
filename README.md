@@ -1,4 +1,4 @@
-<img src="icon.png" width="10%" style="display: block; margin: 24 auto auto 45.5%;">
+<img src="https://raw.githubusercontent.com/ZongziTEK/GCorner/refs/heads/master/Icon.png" width="10%" style="display: block; margin: 24 auto auto 45.5%;">
 <h1 style="text-align: center; margin: 8;">GCorner</h1>
 <p style="text-align: center; margin-bottom: 48;">Add GNOME Hot Corner experience for Windows.</p>
 
